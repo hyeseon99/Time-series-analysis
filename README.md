@@ -41,6 +41,12 @@
     <td align="center">
       <img src="./시계열3.png" alt="시계열 분석 슬라이드 3" width="400">
       <p>데이터 분석</p>
+  <td align="center">
+      <img src="./시계열4.png" alt="시계열 분석 슬라이드 4" width="400">
+      <p>데이터 분석</p>
+  <td align="center">
+      <img src="./시계열5.png" alt="시계열 분석 슬라이드 4" width="400">
+      <p>데이터 결과</p>
     </td>
   </tr>
 </table>
